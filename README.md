@@ -4,7 +4,7 @@
 ## Weights and Biases Setup
 1. Once you login, navigate to: https://wandb.ai/settings
 2. Select, Danger Zone -> API Keys -> New Key
-3. Perform [Installation](Installation)
+3. Perform [Installation](#Installation)
 4. Copy/paste this API Key into the `example.ipynb` at `wb.login("YOUR API KEY HERE")` (with the quotations)
 
 ## Installation
