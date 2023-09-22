@@ -15,5 +15,3 @@ git clone https://github.com/aa14av/wandb-tutorial.git
 cd wandb-tutorial
 ```
 2. Once the repository is cloned, open `example.ipynb` and select the kernel `Tensorflow-2.7.0`
-
-You will also need to install `wandb` with the line `pip install wandb` (this is included in the notebook)
