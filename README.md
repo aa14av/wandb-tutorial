@@ -18,7 +18,7 @@ cd wandb-tutorial
    
 3. Copy/paste this API Key you generated earlier into the `example.ipynb` at:
    
-```Python
+```python
 import os, sys
 sys.path.append(os.path.join(os.path.dirname(os.getcwd()),'.local','bin'))
 
