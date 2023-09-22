@@ -4,9 +4,7 @@
 ## Weights and Biases Setup
 1. Once you login, navigate to: https://wandb.ai/settings
 2. Select, Danger Zone -> API Keys -> New Key
-3. Perform [Installation](#Installation)
-4. Copy/paste this API Key into the `example.ipynb` at `wb.login("YOUR API KEY HERE")` (with the quotations)
-
+3. 
 ## Installation
 1. Begin by cloning this repository to your chosen directory `\path\to\directory\`:
 
@@ -16,3 +14,4 @@ git clone https://github.com/aa14av/wandb-tutorial.git
 cd wandb-tutorial
 ```
 2. Once the repository is cloned, open `example.ipynb` and select the kernel `Tensorflow-2.7.0`
+3. Copy/paste this API Key you generated earlier into the `example.ipynb` at `wb.login("YOUR API KEY HERE")` (with the quotations)
