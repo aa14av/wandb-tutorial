@@ -20,5 +20,5 @@ cd wandb-tutorial
    
 ```python
 print("TensorFlow Version:", tf.__version__)
-wb.login("PASE YOUR API KEY BETWEEN THESE QUOTATIONS"); 
+wb.login("PASTE YOUR API KEY BETWEEN THESE QUOTATIONS"); 
 ```
