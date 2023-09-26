@@ -1,6 +1,10 @@
 # Weights and Biases Tutorial on HiperGator
 >This Requires a Weights and Biases Account (https://wandb.ai/site)
 
+## HiPerGator Open On Demand
+1. Navigate to the Open Ondemand Website: ood.rc.ufl.edu
+2. Open a Jupyter Notebook Sesion 
+
 ## Weights and Biases Setup
 1. Once you login, navigate to: https://wandb.ai/settings
 2. Select, Danger Zone -> API Keys -> New Key
@@ -16,9 +20,11 @@ cd wandb-tutorial
 
 2. Once the repository is cloned, open `example.ipynb` and select the kernel `Tensorflow-2.7.0`
    
-3. Copy/paste this API Key you generated earlier into the `example.ipynb` at:
+3. Copy/paste this API Key you generated earlier into `example.ipynb` after you run the line:
    
 ```python
 print("TensorFlow Version:", tf.__version__)
-wb.login("PASTE YOUR API KEY BETWEEN THESE QUOTATIONS"); 
+wb.login(); 
 ```
+(It will ask for your API key) 
+
