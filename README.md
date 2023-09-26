@@ -1,8 +1,8 @@
 # Weights and Biases Tutorial on HiperGator
 >This Requires a Weights and Biases Account (https://wandb.ai/site)
 
-## HiPerGator Open On Demand
-1. Navigate to the Open Ondemand Website: ood.rc.ufl.edu
+## HiPerGator Open On-Demand
+1. Navigate to the Open On-Demand Website (ood.rc.ufl.edu)
 2. Open a Jupyter Notebook Sesion 
 
 ## Weights and Biases Setup
