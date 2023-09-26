@@ -2,7 +2,7 @@
 >This Requires a Weights and Biases Account (https://wandb.ai/site)
 
 ## HiPerGator Open On-Demand
-1. Navigate to the Open On-Demand Website ood.rc.ufl.edu[ood.rc.ufl.edu]
+1. Navigate to the Open On-Demand Website ([ood.rc.ufl.edu](ood.rc.ufl.edu))
 2. Open a Jupyter Notebook Sesion 
 
 ## Weights and Biases Setup
