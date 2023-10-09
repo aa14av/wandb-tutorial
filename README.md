@@ -3,7 +3,7 @@
 
 ## HiPerGator Open On-Demand
 1. Navigate to the Open On-Demand Website: [ood.rc.ufl.edu](https://ood.rc.ufl.edu)
-2. Open a Jupyter Notebook Sesion 
+2. Open a Jupyter Notebook Session 
 3. With your notebook open, select File -> New -> Console
 
 ## Weights and Biases Setup
